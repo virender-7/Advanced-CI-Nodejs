@@ -1,0 +1,14 @@
+{
+  "name": "advanced-ci-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js project for GitHub Actions demonstration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"Build successful\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
